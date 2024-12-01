@@ -32,6 +32,8 @@ Difference D: 84
 * A python script was written to calculate the difference between the down and across clues
 
 ### Solution
+![image](https://github.com/user-attachments/assets/7278a001-edb3-4755-ae31-5f7d6c54f96b)
+
 Difference D: 4705
 
 - 666688
