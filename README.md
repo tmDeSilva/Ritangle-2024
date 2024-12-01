@@ -4,7 +4,7 @@ My solutions to the stage 3 Ritangle Crossnumbers. Each puzzle has a unique solu
 ## Number Soup
 * Uses OOP and has an average run time of 2 minutes
 * It also uses another python file (numberBank.py) to generate all of the types of numbers used in the problem (such as four digit primes or lucas numbers)
-* The original solution to this takes less than a tenth of a second (but is far harder to read)
+* The original solution to this takes roughly half a second to execute (but is far harder to read)
   
 ### Solution:
 Difference D: 11380
