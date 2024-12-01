@@ -9,10 +9,10 @@ My solutions to the stage 3 Ritangle Crossnumbers. Each puzzle has a unique solu
 ### Solution:
 Difference D: 11380
 
-512873649
-412768437
-138599625
-561324987
+- 512873649
+- 412768437
+- 138599625
+- 561324987
 
   
 ## Triangles
@@ -22,10 +22,10 @@ Difference D: 11380
 ### Solution
 Difference D: 84
 
-776985
-631862
-562874
-357675
+- 776985
+- 631862
+- 562874
+- 357675
   
 ## Genius 3
 * I solved this manually but used pygame to allow me to simply click and insert answers to clues
@@ -34,9 +34,9 @@ Difference D: 84
 ### Solution
 Difference D: 4705
 
-666688
-333100
-053722
-955772
-954470
-904400
+- 666688
+- 333100
+- 053722
+- 955772
+- 954470
+- 904400
